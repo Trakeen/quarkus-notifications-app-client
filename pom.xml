@@ -96,6 +96,19 @@
             <artifactId>quarkus-rest-client-jackson</artifactId>
         </dependency>
 
+        <!-- APNs provider-token: ES256 JWT signing -->
+        <dependency>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-smallrye-jwt-build</artifactId>
+        </dependency>
+
+        <!-- FCM access-token: Google service-account OAuth 2.0 -->
+        <dependency>
+            <groupId>com.google.auth</groupId>
+            <artifactId>google-auth-library-oauth2-http</artifactId>
+            <version>1.23.0</version>
+        </dependency>
+
         <!-- Lombok — annotation processor only, not a runtime dependency -->
         <dependency>
             <groupId>org.projectlombok</groupId>
