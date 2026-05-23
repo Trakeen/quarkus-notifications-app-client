@@ -1,0 +1,15 @@
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/apns/ApnsClient.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/apns/ApnsPushType.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/apns/model/ApnsAlert.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/apns/model/ApnsAps.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/apns/model/ApnsError.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/apns/model/ApnsPayload.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/auth/AbstractApnsTokenFilter.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/auth/AbstractFcmTokenFilter.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/fcm/FcmClient.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/fcm/model/FcmAndroidConfig.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/fcm/model/FcmApnsConfig.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/fcm/model/FcmMessage.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/fcm/model/FcmNotification.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/fcm/model/FcmResponse.java
+/Users/a/Documents/Dev/quarkus-notifications-app-client/src/main/java/io/quarkiverse/notifications/fcm/model/FcmSendRequest.java
